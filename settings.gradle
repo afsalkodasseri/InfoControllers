@@ -1,0 +1,3 @@
+include ':InfoControllers'
+include ':app'
+rootProject.name = "InfoController"
